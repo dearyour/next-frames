@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/52556956/151675087-9b3823fd-7102-4229-a67e-cb18d5c90d34.png)
+![image](https://user-images.githubusercontent.com/52556956/151675962-96561f0a-8772-4ad5-8db8-d0b3e53bc726.png)
 
 
 # vercel을 이용한 배포완료 
